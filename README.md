@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrinceAsiedu
-- 👀 I’m interested in Cloud Engineering, Cyber Security, and Web Development.
-- 🌱 I’m currently learning Python, Javascript and French
-- 💞️ I’m looking to collaborate on open source cloud and Web related projects.
+- 👀 I’m interested in Cloud Development, Cyber Security, and Web Development.
+- 🌱 I'm currently working on personal projects with AWS, Python and Linux
+- 💞️ I’m looking to collaborate on cloud and web related projects.
 - 📫 Kindly reach me on:
 -   LinkedIn - https://www.linkedin.com/in/princeoforhasiedu/
 -   Discord  - Prince Asiedu#6967
