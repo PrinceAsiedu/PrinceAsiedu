@@ -5,7 +5,7 @@
 - 📫 Kindly reach me on:
 -   LinkedIn - https://www.linkedin.com/in/princeoforhasiedu/
 -   Discord  - Prince Asiedu#6967
--   Email    - princeasiedu@phelsy.com
+-   Email    - princeo.asiedu@gmail.com
 <!---
 PrinceAsiedu/PrinceAsiedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
