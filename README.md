@@ -5,7 +5,6 @@
 - 🤗 And Oh! I love Flowbite[https://www.flowbite.com]! You should check them out.
 - 📫 Kindly reach me on:
 -   LinkedIn - https://www.linkedin.com/in/princeoforhasiedu/
--   Discord  - Prince Asiedu#6967
 -   Email    - princeo.asiedu@gmail.com
 <!---
 PrinceAsiedu/PrinceAsiedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
