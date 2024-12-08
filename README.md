@@ -1,4 +1,4 @@
-Hi there! 👋 I'm **Prince Oforh Asiedu**, a passionate software engineer and open-source advocate based in Africa. I'm currently focused on developing robust, scalable solutions using Django, PostgreSQL, Kubernetes, Docker, Redis, and more. I’m deeply interested in cybersecurity and cloud-native technologies, aiming to contribute to impactful projects in these fields.
+Hi there! 👋 I'm **Prince Oforh Asiedu**, a passionate software engineer and open-source security advocate based in Africa. I'm currently focused on developing robust, scalable solutions using Django, PostgreSQL, Kubernetes, Docker, Redis, and more. I’m deeply interested in cybersecurity and cloud-native technologies, aiming to contribute to impactful projects in these fields.
 
 I’m building Phelsy, a Django-Postgresql based e-commerce platform, and enjoy collaborating on open-source projects, particularly around Python and security.
 
