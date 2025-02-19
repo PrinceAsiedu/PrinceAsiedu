@@ -5,6 +5,7 @@ I’m building Phelsy, a Django-Postgresql based e-commerce platform, and enjoy 
 When I’m not coding, I’m studying, contributing to initiatives like OpenSSF, and expanding my skills in ethical hacking and penetration testing. Feel free to connect with me or open an issue if you’d like to collaborate!
 
 💻 Learning: Cybersecurity, Cloud Computing, and Ethical Hacking.
+
 🌍 Open-Source Contributor: Actively contributing to various projects focused on improving security and scalability.
 
 Let's build something amazing together!
