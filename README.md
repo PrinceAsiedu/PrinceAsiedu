@@ -12,25 +12,25 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hey there! I'm **Prince Oforh Asiedu**, a passionate software engineer and open-source security advocate based in Africa. 
 
 I'm deeply committed to **software supply chain security**, **developer tooling**, and building **secure, scalable systems** that make a real impact. My work focuses on strengthening the intersection of security and open source, particularly across the African tech ecosystem.
 
-### 🎯 What I Do
+### What I Do
 
-- 🔐 **Software Supply Chain Security** - Contributing to OpenSSF efforts and advancing secure development practices
-- 🌍 **OSSAfrica** - Actively supporting this emerging initiative to strengthen open-source security awareness and collaboration across Africa
-- 🛠️ **Developer Tooling** - Building tools that improve secure software workflows
-- 📚 **Community Education** - Sharing knowledge through collaboration and developer education
-- 🔍 **Security Research** - Exploring vulnerabilities and best practices in open-source ecosystems
+- **Software Supply Chain Security** - Contributing to OpenSSF efforts and advancing secure development practices
+- **OSSAfrica** - Actively supporting this emerging initiative to strengthen open-source security awareness and collaboration across Africa
+- **Developer Tooling** - Building tools that improve secure software workflows
+- **Community Education** - Sharing knowledge through collaboration and developer education
+- **Security Research** - Exploring vulnerabilities and best practices in open-source ecosystems
 
 > *Always learning, always building. Let's connect and collaborate!*
 
 ---
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +59,7 @@ I'm deeply committed to **software supply chain security**, **developer tooling*
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -82,7 +82,7 @@ I'm deeply committed to **software supply chain security**, **developer tooling*
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -92,11 +92,11 @@ I'm deeply committed to **software supply chain security**, **developer tooling*
 
 </div>
 
-> 💡 *Check out my pinned repositories below for more of my work!*
+> *Check out my pinned repositories below for more of my work!*
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -106,17 +106,17 @@ I'm deeply committed to **software supply chain security**, **developer tooling*
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always excited to collaborate on projects related to:
-- 🔐 Software supply chain security
-- 🌍 Open-source security initiatives in Africa
-- 🛠️ Developer tooling and automation
-- 📚 Security education and community building
+- Software supply chain security
+- Open-source security initiatives in Africa
+- Developer tooling and automation
+- Security education and community building
 
 <div align="center">
 
-### 📫 Reach Out
+### Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princeoforhasiedu/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prince14asiedu@gmail.com)
@@ -127,11 +127,11 @@ I'm always excited to collaborate on projects related to:
 
 <div align="center">
   
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Visitor Count
+### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/PrinceAsiedu/count.svg)
 
