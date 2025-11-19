@@ -131,9 +131,9 @@ I'm always excited to collaborate on projects related to:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Visitor Count
+### Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/PrinceAsiedu/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=PrinceAsiedu&color=a277ff&style=for-the-badge&label=Profile+Views)
 
 </div>
 
