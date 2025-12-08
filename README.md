@@ -48,44 +48,6 @@ I'm deeply committed to **software supply chain security**, **developer tooling*
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?
-  username=PrinceAsiedu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceAsiedu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrinceAsiedu&theme=tokyonight&hide_border=true&background=0d1117&ring=a277ff&fire=61dafb&currStreakLabel=a277ff)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrinceAsiedu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/PrinceAsiedu/PrinceAsiedu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrinceAsiedu&repo=PrinceAsiedu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a277ff&icon_color=61dafb&text_color=c9d1d9" />
-</a>
-
-</div>
-
-> *Check out my pinned repositories below for more of my work!*
-
----
-
 ## Contribution Activity
 
 <div align="center">
